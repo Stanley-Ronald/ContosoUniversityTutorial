@@ -6,7 +6,21 @@
     color: #FFFFFF !important;
 }
 
+.jumbotron {
+    background-color: #000 !important;
+}
 
+td a {
+    color: #FFFFFF !important;
+}
+
+th a {
+    color: #FFFFFF !important;
+}
+
+p a {
+    color: #FFFFFF !important;
+}
 
 .btn btn-default {
     color: #000000 !important;
